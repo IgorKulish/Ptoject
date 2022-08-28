@@ -1,6 +1,7 @@
-class Project
+class Project {
 
   public static void main(String[] args) {
   
    System.out.println("Hello Project 28.08.2022");
   }
+}
